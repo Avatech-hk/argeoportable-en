@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'ARGEO Portable'
-copyright = '2022, Avatech'
+copyright = '2023, Avatech'
 author = 'Avatechhk'
 
 release = '1.0'

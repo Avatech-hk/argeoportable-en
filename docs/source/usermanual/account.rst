@@ -1,28 +1,28 @@
-帳戶
+Account
 ===================================
 
-註冊帳戶
+Register Account
 -----------------------
-按下［註冊帳號］連結
+Click on \[Register Account\] link
 
 .. image:: account_images/accountreg.jpg
   :width: 600
-  :alt: 登入畫面
+  :alt: Login screen
 
 
-註冊帳戶：輸入用戶名稱（日後可更改）、電郵地址、密碼及確認密碼
-	- 用戶名稱可由中文或英文組成
-	- 請輸入一個真實的電郵地址，稍後會用作驗證用途
-	- 密碼可由英文、數字或符號組成，密碼長度最少為６個字元
-	- 確認密碼：輸入多一次密碼
+Register account: Enter username (can be changed in the future), email address, password and confirmation password. 
+	- Username can be in Chinese or English.
+	- Please enter a real email address, which will be used for verification purpose later. 
+	- Password can be in English, numbers or symbols, with a minimum length of 6 characters. 
+	- Confirm Password: Enter your password once more time.
 
 .. image:: account_images/accountreg1.jpg
   :width: 600
-  :alt: 輸入資料
+  :alt: Input Data
 
 .. image:: account_images/accountreg2.jpg
   :width: 600
-  :alt: 輸入資料
+  :alt: Input Data
 
 
 註冊成功後請查閱電郵進行電郵驗證，在電郵中按下［Confirm Your Account Now］
