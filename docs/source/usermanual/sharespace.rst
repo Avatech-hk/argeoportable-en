@@ -1,9 +1,9 @@
-共享空間
+Shared Space
 ===================================
 
-共享空間功能簡介
+Introduction to the Shared Space feature
 -----------------------
-共享空間功能讓用戶能把自己的空間分享給其他用戶，其他用戶因而能查看該空間及可取得一個空間副本以作修改，達到共享空間概念。
+Shared space function allows users to share their own space with other users, so that other users can view the space and get a copy of the space for modification, thus achieving the concept of shared space.
 
 
 .. image:: sharespace_images/sharespace.png
@@ -13,9 +13,9 @@
 
 
 
-分享一個空間
+Share a space
 -----------------------
-在［我的空間］裏，選擇一個要分享的空間，點擊該空間的［．．．］打開選單，按下［分享］
+In [My Space], select a space you want to share, and click the [...] button on that space. Open the menu and click [Share].
 
 .. image:: sharespace_images/sharespace1.png
   :width: 400
@@ -26,42 +26,42 @@
   :alt: Alternative text
 
 
-輸入空間資訊：標題、說明。由於使用不同語言的用戶都可能會查看到你分享的空間，你可以分別以不同語言填寫空間資訊，讓使用不同語言的用戶都能了解你分享的空間。
+Enter information about the space: title, description. Since users in different languages may be able to view your space, you can fill in the space information in different languages so that users in different languages can understand your space.
 
 .. image:: sharespace_images/sharespace3.png
   :width: 400
   :alt: Alternative text
 
 
-類別：請選擇一個合適的類別
+Category: Please select an appropriate category.
 
-分享設定：你可選擇以［公開］或［不公開］形式分享空間
-＊公開：可經共享空間或分享碼進入空間
-＊不公開：僅可以分享碼進入空間
+Sharing Settings: You can choose to share your space in [Open] or [Closed] format 
+＊Open: you can enter the space via shared space or sharing code 
+＊Closed: you can enter the space with sharing code only.
 
-注意：當你把空間分享後，你將無法再修改已分享的空間的地形，你只可修改空間資訊，而已分享的空間是不會影響［我的空間］內的空間，即是你仍可編輯［我的空間］內的空間，但若你希望更新已分享的空間的地形，你必須在［我的空間］編輯地形，然後重新分享。
-
-
+Note: After you share a space, you can no longer modify the terrain of the shared space, you can only modify the information of the space, and the shared space will not affect the space in [My Space], that is, you can still edit the space in [My Space], but if you want to update the terrain of the space you have already shared, you have to edit the terrain in [My Space], and then re-share it.
 
 
 
-分享碼
+
+
+Sharing code
 -----------------------
-分享完成後，系統會顯示一個分享碼，你可把分享碼傳送給其他用戶，他們便可直接查看此分享的空間
+After sharing, the system will display a sharing code, you can pass the code to other users, they can directly view the shared space.
 
 .. image:: sharespace_images/sharespace4.png
   :width: 400
   :alt: Alternative text
 
 
-點擊［輸入分享碼］
+Click [Enter code].
 
 .. image:: sharespace_images/sharespace5.png
   :width: 400
   :alt: Alternative text
 
 
-輸入分享碼
+Input Share Code
 
 .. image:: sharespace_images/sharespace6.png
   :width: 400
@@ -70,10 +70,10 @@
 
 
 
-管理我的空間
+Manage my space
 -----------------------
-在你把空間分享後，你可管理你已分享的空間，包括查看分享碼、編輯資訊、刪除空間等。
-在［我的空間］中，點擊［已分享的空間］
+After you have shared your space, you can manage your shared space, including viewing the code, editing the information, deleting the space, and so on. 
+In [My Space], click [Shared Space].
 
 .. image:: sharespace_images/sharespace7.png
   :width: 400
@@ -83,4 +83,4 @@
   :width: 400
   :alt: Alternative text
 
-＊若你刪除已分享的空間，其他用戶便無法再在共享空間或使用分享碼查看到你的空間，而刪除已分享的空間不會影響［我的空間］內的空間
+＊If you delete a shared space, other users will no longer be able to view your space in the shared space or use the sharing code, and deleting a shared space will not affect the space in [My Space].
