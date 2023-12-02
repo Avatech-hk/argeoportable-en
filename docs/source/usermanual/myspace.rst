@@ -1,30 +1,30 @@
-我的空間
+My Space
 ===================================
 
-我的空間功能簡介
+My Space Features
 
-「我的空間」讓用戶建立個人的地形空間，在空間裏您可使用所有編輯功能，包括地形塑造、繪圖工具、標記工具及地圖介面等，而空間會儲存於您的帳戶內。教師帳戶可查看屬於該許可證班級內的學生的「我的空間」，但不能編輯學生的空間。教師或學生帳戶是不能查看另一教師的「我的空間」，即使帳戶屬於同一許可證下。學生帳戶必須加入過班級才能使用「我的空間」。
-
-
+"My Space" allows users to create a personalised terrain space where you can use all the editing features, including terrain shaping, drawing tools, marking tools, and the map interface, etc. The space will be saved in your account. Teacher accounts can view the My Spaces of the students in their license class, but cannot edit the students' spaces. Teacher or student accounts cannot view another teacher's My Space, even if the accounts are under the same license. Student accounts must be enrolled in a class to use My Space.
 
 
-創建我的空間
+
+
+Create My Space
 -----------------------
-點擊「＋創建空間」按鈕
+Click the "＋Create Space" button.
 
 .. image:: myspace_images/myspace.png
   :width: 400
   :alt: Alternative text
 
 
-輸入標題（必填）及內容
+Input Title (required) and Content
 
 .. image:: myspace_images/myspace1.png
   :width: 400
   :alt: Alternative text
 
 
-點擊［創建］後便會自動進入空間，由此您可以進行編輯
+Click [Create] and you will automatically enter the space, from which you can edit.
 
 .. image:: myspace_images/myspace2.png
   :width: 400
@@ -33,23 +33,23 @@
 
 
 
-編輯我的空間（儲存、查看或編輯空間資訊）
+Edit my space (save, view or edit space information) 
 -----------------------
-經過地形編輯後，您可點擊「儲存」按鈕儲存空間。同時您亦可點擊「資訊」按鈕進行查看或編輯空間資訊。
+After terrain editing, you can click the "Save" button to save your space. You can also click the "Info" button to view or edit the space information.
 
 .. image:: myspace_images/myspace3.jpg
   :width: 400
   :alt: Alternative text
 
 
-儲存空間
+Storage Space
 
 .. image:: myspace_images/myspace4.png
   :width: 400
   :alt: Alternative text
 
 
-查看或編輯空間資訊
+View or edit space information
 
 .. image:: myspace_images/myspace5.jpg
   :width: 400
@@ -58,9 +58,9 @@
 
 
 
-退出我的空間
+Exit My Space
 -----------------------
-點擊右上方［．．．］按鈕打開選單，在選單中按［離開］。
+Click the [...] button at the top right to open the menu, and click [Exit] in the menu.
 
 .. image:: myspace_images/myspace6.png
   :width: 400
@@ -69,9 +69,9 @@
 
 
 
-移除我的空間
+Remove my space 
 -----------------------
-點擊［．．．］打開選單，按下［刪除］按鈕
+Click [...]. Open the menu and click the [Delete] button.
 
 .. image:: myspace_images/myspace7.png
   :width: 400

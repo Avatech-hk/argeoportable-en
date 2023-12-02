@@ -3,7 +3,8 @@ Account
 
 Register Account
 -----------------------
-Click on \[Register Account\] link
+Click on \[Register Account\
+] link
 
 .. image:: account_images/accountreg.jpg
   :width: 600
@@ -25,7 +26,7 @@ Register account: Enter username (can be changed in the future), email address, 
   :alt: Input Data
 
 
-註冊成功後請查閱電郵進行電郵驗證，在電郵中按下［Confirm Your Account Now］
+After successful registration, please check your email for email verification and click [Confirm Your Account Now] in the email.
 
 .. image:: account_images/accountreg3.png
   :width: 600
@@ -36,7 +37,7 @@ Register account: Enter username (can be changed in the future), email address, 
   :alt: Alternative text
   
 
-然後返回 ARGEO Portable 應用程式，並按下［我已經進行驗證］
+Then return to the ARGEO Portable app and click [I have been verified].
 
 .. image:: account_images/accountreg5.jpg
   :width: 600
@@ -45,10 +46,10 @@ Register account: Enter username (can be changed in the future), email address, 
 
 
 
-啟動教師帳戶
+Activate Teacher Account
 -----------------------
-當電郵驗證完成後，請選擇帳號類型為教師（Teacher），然後按下一步，並輸入許可證序號。
-	－許可證序號由官方系統進行派發，如未獲得許可證序號，請聯絡我們
+Once the email verification is complete, please select the account type as Teacher, then click ‘Next’ and enter the license serial number.
+	－license serial numbers are issued by the official system, if you do not have a license serial number, please contact us.
 
 
 .. image:: account_images/accountreg6.jpg
@@ -59,7 +60,7 @@ Register account: Enter username (can be changed in the future), email address, 
   :width: 600
   :alt: Alternative text
 
-確認後載入以下畫面代表許可證成功啟動
+After confirmation, the following screen is loaded to indicate that the license has been successfully activated
 
 .. image:: account_images/accountreg8.png
   :width: 600
@@ -68,21 +69,20 @@ Register account: Enter username (can be changed in the future), email address, 
 
 
 
-啟動學生帳戶
+Activate Student Account
 -----------------------
-當電郵驗證完成後，請選擇帳號類型為學生（Student），然後按下一步，並輸入班級邀請碼。
-- 班級邀請碼由教師帳號建立班級而自動產生
+When email verification is complete, select the account type as Student, then click ‘Next’ and enter the Class Invitation Code.
+- The Class Invitation Code is generated automatically when a class is created in the teacher's account.
 
-確認後載入以下畫面代表成功進入班級
-
-
+After confirmation, the following screen will be loaded to indicate that you have successfully entered the class.
 
 
 
-查看帳戶資訊
+
+
+View Account Information
 -----------------------
-點選右上方［．．．］按鈕，再按下個人名稱一欄，便可查看帳號資訊，包括學校名稱、用戶人數、許可證序號、許可證到期日等資訊。
-您可分享許可證序號給另一位教師作啟動教師帳戶，使用同一許可證序號啟動後，系統會自動把該名教師帳戶加入您的許可證，而用戶人數亦會自動增加。
+Click the [...] button at the top right, and then click the Personal Name column to view account information, including school name, number of users, license serial number, license expiry date, etc. You can share the license serial number with another teacher to activate the teacher's account. After activation with the same license serial number, the system will automatically add the teacher's account to your license and the number of users will be increased automatically.
 
 .. image:: account_images/accountinfo.png
   :width: 600
@@ -93,23 +93,23 @@ Register account: Enter username (can be changed in the future), email address, 
   :alt: Alternative text
 
 
-**許可證用量計算方法**
-**用戶人數**
-用戶人數根據許可證計劃而定，分別是教師用戶人數及學生用戶人數。
-教師用戶人數根據教師帳戶成功啟動許可證而計算，若教師用戶離開了許可證則不計算在內。
-學生用戶人數根據學生帳戶成功加入班級而計算，即使學生帳戶加入多個班級也只會佔用一個學生用戶人數，若學生帳戶離開了許可證則不計算在內。
+**Calculation of license Usage**
+**Number of Users**
+The number of users depends on the license scheme, which are the number of teacher users and the number of student users.
+The number of teacher users is calculated based on the successful activation of the license by the teacher account, and is not counted if the teacher account leaves the license.
+The number of student users is calculated based on the number of classes a student account successfully joins, even if a student account joins more than one class it will only take up one student user number, if the student account leaves the license, it will not be counted.
 
-**更多資訊**：我的班級－教師帳戶－離開許可證；我的班級－教師帳戶－移除學生許可證權限
-空間用量
-空間用量根據許可證計劃而定，分別是教師空間用量及學生空間用量。如已佔用的空間用量已滿，帳戶將無法再建立新的空間。
+**More information**：My Classes - Teacher Accounts - Leave license；My Classes - Teacher Accounts - Remove Student license Permissions
+Space Usage
+Space usage is based on the license plan, and is the amount of space used by the teacher and the amount of space used by the student. If the occupied space usage is full, no new space can be created in the account.
 
-教師空間用量以「我的空間」、「黑板」及「習作」的空間總和數量而計算。空間用量以帳戶已建立的空間計算，不會與其他教師帳戶共同計算。
+Teacher space usage is based on the total number of spaces in ‘My Space’, ‘Blackboard’ and ‘Assignments’. Space usage is calculated based on space already created in the account and is not shared with other teacher accounts.
 
-學生空間用量以「我的空間」及「習作」計算。
+Student space usage is calculated for My Space and Assignments.
 
-- 我的空間：空間用量以帳戶已建立的空間計算。
+- My Space: Space usage is calculated on the space created in the account.
 
-- 黑板：不會計算空間用量
+- Blackboard: Space usage is not calculated.
 
-- 習作：空間用量以帳戶的習作數量而計算。由於習作是由教師帳戶於班級內所建立的，如教師建立了一份習作，在班級內每個學生的空間用量都會因而加一。若學生的空間用量已滿，教師再新建立的習作仍然能夠分配給空間用量已滿的學生，學生仍然能夠儲存習作。唯學生不能再在「我的空間」建立空間，而學生空間用量會超額顯示。
+- Assignments: Space usage is calculated based on the number of assignments in the account. Since the assignments are created in the class from the teacher's account, if the teacher creates an assignment, the space usage for each student in the class will be increased by one. If a student's space usage is full, a new assignment created by the teacher can still be assigned to the student whose space usage is full, and the student will still be able to save the assignment. However, students can no longer create space in My Space, and the student's space usage will be shown as exceeded.
 

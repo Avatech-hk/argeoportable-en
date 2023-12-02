@@ -1,9 +1,9 @@
-使用手冊
+User's Manual
 ===================================
 
 .. toctree::
     :maxdepth: 2
-    :caption: 使用手冊:
+    :caption: User's Manual:
    account
    myspace
    myclass
