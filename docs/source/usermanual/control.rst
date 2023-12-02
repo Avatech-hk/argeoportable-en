@@ -1,4 +1,4 @@
-操作教學
+Operation instruction
 =================================== 
 
 .. |viewmode| image:: control_images/viewmode.png
@@ -79,7 +79,7 @@
 
 
 
-介面介紹
+Interface Introduction
 -----------------------
 
 .. image:: control_images/UI.png
@@ -89,7 +89,7 @@
 
 
 
-功能總覽
+Features Overview
 -----------------------
 
 .. image:: control_images/overall_function.png 
@@ -99,12 +99,11 @@
 
 
 
-功能
+Features
 -----------------------
-視角操控(View Control)
-    觀察模式(View Mode):
-    按左邊工具欄的 |viewmode| 啟動觀察模式，下方的工具操控台將會被收起，用家可以單指調整觀察方位，移動至最佳視角，從不同角度觀察地勢
-
+View Control
+    觀View Mode:
+    Press |viewmode| on the left toolbar to activate the view mode, the lower tool console will be closed, users can adjust the viewing angle with one finger to move to the best viewing angle to observe the terrain from different angles.
 
 .. image:: control_images/view_control_mode.png
   :width: 400
@@ -114,9 +113,9 @@
 
 
 
-雙指操控(Two-finger Gesture):
+Two-finger Gesture:
 -----------------------
-用家可隨時以雙指調整或旋轉觀察方位、放大、縮小以及調整仰角
+Users can adjust or rotate the viewing position, zoom in, zoom out and adjust the elevation angle with two fingers at any time.
 
 .. image:: control_images/finger_control1.png
   :width: 400
@@ -145,9 +144,9 @@
 
 
 
-俯視角度(Top View):
+Top View:
 -----------------------
-按右邊工具欄的 |topview| 以調校鏡頭至俯視角度，由正上方清楚俯視整個地形
+Click |topview| on the right toolbar to adjust the camera to the top view angle, and you can see the whole terrain from the top.
 
 .. image:: control_images/overlook.png
   :width: 400
@@ -156,9 +155,9 @@
 
 
 
-預設角度(Default View):
+Default View:
 -----------------------
-按右邊工具欄的 |sideview| 以返回與進入地形時一樣的預設觀察角度，從則面觀察地形
+Click on |sideview| in the right toolbar to return to the default view as when entering the terrain, viewing the terrain from the other side.
 
 .. image:: control_images/default_angle.jpg
   :width: 400
@@ -167,18 +166,19 @@
 
 
 
-地形塑造(Terrain Modifying)
+Terrain Modifying
 -----------------------
-按左邊工具欄的 |terrain_edit_mode| 啟動地形塑造，工具操控台將於下方彈出，用家可以單指升高或降低手指接觸位置的地形，塑造不同形狀的地貌
+Press |terrain_edit_mode| on the left toolbar to activate terrain modifying, the tool console will pop up at the bottom, users can raise or lower the terrain in the contact position with one finger to shape the terrain with different shapes.
 
 .. image:: control_images/terrain_modifying.png
   :width: 400
   :alt: Alternative text
 
 
-地形塑造的工具操控台:
+Terrain shaping tool console:
 
-塑造範圍大小 |brush_size| : 調整塑造範圍的大小，滑桿標越靠右塑造範圍越大
+Adjust the size of the shaping area |brush_size| : Adjusts the size of the shaping area, the further to the right the slider, the larger the shaping area.
+
 
 .. image:: control_images/modifying_size1.png
   :width: 400
@@ -189,7 +189,7 @@
   :alt: Alternative text
 
 
-塑造強度 |brush_strength| : 調整塑造強度，塑造強度即地形升高或降低之速度，滑桿標越靠右塑造強度越大
+Brush_strength |brush_strength| : Adjust the brushing strength, the brushing strength is the speed of the terrain raising or lowering, the more the slider is to the right, the more the brushing strength will be.
 
 .. image:: control_images/modifying_strength1.png
   :width: 400
@@ -200,8 +200,7 @@
   :alt: Alternative text
 
 
- 
-升高/降低 |extrude_up| |reduce| : 選擇升高或降低以決定塑造地形時是升高還是降低地勢
+raise/reduce |extrude_up| |reduce| : Select raise or reduce to determine whether to raise or lower the terrain when shaping.
 
 .. image:: control_images/modifying_height1.png
   :width: 400
@@ -214,30 +213,30 @@
 
 
 
-繪圖工具(Drawing Tools)
+Drawing Tools
 -----------------------
-按左邊工具欄的 |pen| 啟動繪圖工具，工具操控台將於下方彈出，用家可於地形上繪圖及寫字，以單指劃過地形便會留下筆跡，以此輔助用家解說課堂內容
+Press |pen| on the left toolbar to activate the Drawing Tools, the tool console will pop up at the bottom, users can draw and write on the terrain, and a single finger stroke over the terrain will leave a handwriting mark, which will help users to explain the lesson content.
 
 .. image:: control_images/drawing_tools.png
   :width: 400
   :alt: Alternative text
 
 
-繪圖工具的工具操控台:
+Drawing tools tool console:
 
-顏色: 選擇畫筆的顏色，有紅藍黃綠白五款顏色
+Colour: Choose the colour of the brush, there are five colours: red, blue, yellow, green and white.
 
-橡皮擦 |eraser| : 使用橡皮擦，以單指劃過的筆跡將會被清除。若要退出橡皮擦狀態，再次點選此以返回畫筆狀態
-上一步 |undo_white| : 撤銷上一步動作，包括畫圖及橡皮擦清除的動作 (注意: 不包括清除全部之動作)
-下一步 |redo_white| : 重做下一步動作，包括畫圖及橡皮擦清除的動作 (注意: 不包括清除全部之動作)
-清除全部 |clear| : 清除地形上所有的筆跡及畫筆紀錄，此動作不能被撤銷
-
-
+Eraser |eraser| : With the eraser, the stroke made with one finger will be erased. To exit the eraser state, click this again to return to the brush state
+Previous |undo_white| : Undo the previous action, including drawing and eraser clearing (Note: not include the Clear All action)
+Next |redo_white| : Redo the next action, including drawing and eraser clearing (Note: not include the Clear All action)
+Clear All |clear| : Clears all strokes and brushstrokes from the terrain, this action cannot be undone.
 
 
-標記工具(Labelling Tools)
+
+
+Labelling Tools
 -----------------------
-按左邊工具欄的 |label| 啟動標記工具，工具操控台將於下方彈出，用家可於地形落下標記以標示及描述地勢特點，以單指觸碰地形便可加上標記。新增標記時鍵盤會彈出供用家輸入標記內容，正在選取的標記內容會在工具操控台顯示，點擊其他標記可選取其以作編輯
+Press |label| on the left toolbar to activate the Labelling Tools, the tool console will pop up at the bottom of the tool, users can place markers on the terrain to mark and describe the terrain features, and touch the terrain with one finger to add markers. When adding a new label, the keyboard will pop up for users to input the label content, the selected label content will be displayed in the tool console, click other labels to select them for editing.
 
 .. image:: control_images/labelling_tools1.png
   :width: 400
@@ -249,20 +248,20 @@
 
 
 
-標記工具的工具操控台:
+Marker tool console:
 
-顏色: 選擇標記的顏色，有紅藍黃綠白五款顏色
-新增標記 : 新增並編輯一個新的標記
-清除標記 : 清除正在選取的標記
-
-
+Colour: Choose the colour of the marker, there are five colours: red, blue, yellow, green and white
+New Marker: Add a new marker and edit it
+Clear Marker: Clear the selected marker.
 
 
 
 
-地圖介面(Map View)
+
+
+Map View
 -----------------------
-按左邊工具欄的 |mapview| 啟動地圖介面，下方的工具操控台將會被收起，開啟此後會將地形變為一張加上格網方格地圖，右邊的工具欄將變做測量工具欄，可於此啟用不同的測量工具，使用直尺及量角器進行測量和計算，以教授地圖閱讀的格網座標及比例計算等
+Press |mapview| on the left toolbar to activate the map interface, the lower tool console will be closed, and then the terrain will be turned into a grid map, the right toolbar will be turned into a measurement toolbar, where you can activate different measurement tools, use a ruler and protractor to measure and calculate, in order to teach map reading grid coordinates and scale calculations.
 
 .. image:: control_images/mapviewlayout.png
   :width: 400
@@ -270,37 +269,37 @@
 
 
 
-地圖介面工具:
+Map Interface Tools:
 
-格網方格: 地圖會加上一個4格乘3格的格網，點擊東行線(easting)或北行線(northing)上的任何數字，鍵盤會彈出供用家更改最左下方的座標相對應之數值
-隱藏筆跡 |drawing_hide| : 按一下可隱藏地形上的所有筆跡，再按一下可重新顯示筆跡
+Grid square: the map will be added a 4 by 3 grid, click on any number on the eastbound (easting) or northbound (northing) line, the keyboard will pop up for the user to change the value corresponding to the coordinates on the bottom left
+Hide the handwriting |drawing_hide| : click to hide all the handwriting on the terrain, and then click again to redisplay the handwriting
 
-直尺: 
-  - 移動直尺: 點擊並拉動直尺便可把其移動至手指觸碰的位置
-  - 調整長度 |ruler_rotate| : 點擊並前後拉動 (missing photo) 便可調整直尺顯示的長度
-  - 調整方向 |ruler_rotate| : 點擊並上下拉動 (missing photo) 便可調整直尺的方向
-  - 調整闊度 : 點擊並拉動便可調整直尺顯示的闊度，增加闊度可將其當為格子尺使用
-  - 呼喚直尺 |get_ruler| : 直尺移動至畫面左方，其長度及闊度亦會改至較低數值，若直尺移到不可視的位置，可按此立即呼喚直尺到方便取用的位置
-  - 橫向使用 |horizontal_ruler| : 將直尺的方向調整為橫向
-  - 縱向使用 |vertical_ruler| : 將直尺的方向調整為縱向
+Ruler:
+  - Move ruler: Click and pull the ruler to move it to the position where your finger touches it.
+  - Adjust length |ruler_rotate| : Tap and pull back and forth (missing photo) to adjust the length of the ruler.
+  - Adjust the direction |ruler_rotate| : Click and pull up and down (missing photo) to adjust the direction of the ruler.
+  - Adjust width : Click and pull to adjust the width of the ruler, increase the width to use it as a grid ruler.
+  - Call ruler |get_ruler| : Move the ruler to the left side of the screen, its length and width will be changed to a lower value. If the ruler is moved to an invisible position, you can click here to call the ruler to an easily accessible position.
+  - Horizontal |horizontal_ruler| : Adjust the ruler to horizontal direction.
+  - Vertical |vertical_ruler|: Adjust the ruler to vertical direction.
 
-量角器:
-  - 移動量角器: 點擊並拉動量角器便可把其移動至手指觸碰的位置
-  - 旋轉量角器 |ruler_rotate| : 點擊並向順時針或逆時針方向拉動量角器旁的 (missing photo) 便可向相應方向旋轉
-  - 呼喚量角器 |angle_ruler|: 量角器移動至畫面右方，若直尺移到不可視的位置，可按此立即呼喚量角器到方便取用的位置
+Protractor:
+  - Move protractor: Click and pull the protractor to move it to the position where your finger touches it.
+  - Rotate protractor |ruler_rotate| : Click and pull the missing photo next to the protractor clockwise or anti-clockwise to rotate it in the corresponding direction.
+  - Call protractor |angle_ruler|: Move the protractor to the right side of the screen, if the ruler is moved out of view, you can click here to call the protractor to a convenient location.
 
-放大: 將地圖畫面放大
+Zoom In: Zoom in on the map
 
-縮小: 將地圖畫面縮小
-
-
+Zoom Out: Zoom out the map.
 
 
 
 
-橫切面(Cross-section)
+
+
+Cross-section
 -----------------------
-按右邊工具欄的 |cross_section| 以顯示橫切面地形
+Click |cross_section| in the right toolbar to display the cross-section terrain.
 
 .. image:: control_images/cross_section_layout.png
   :width: 400
