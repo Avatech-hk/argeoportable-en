@@ -455,7 +455,7 @@ e. Adjust the vertical exaggeration to observe the cross-sectional view.
 
 
 
-遙距教學使用
+Remote Teaching
 -----------------------
 Zoom
 - Start sharing your screen:
