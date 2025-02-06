@@ -1,9 +1,9 @@
-教學資源
+Teaching Resources
 ===================================
 
 .. toctree::
     :maxdepth: 1
-    :caption: 地圖閱讀技巧
+    :caption: Map Reading Skills
    
     mapreading/intervisibility
     mapreading/relief
