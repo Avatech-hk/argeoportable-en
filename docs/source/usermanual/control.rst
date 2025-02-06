@@ -339,17 +339,17 @@ Click |cross_section| in the right toolbar to display the cross-section terrain.
 
 
 
-環境調整(Environment Options)
+Environment Options
 -----------------------
-按右邊工具欄的 |environmentoptions| 以更改地形的環境特點
+Click on the right toolbar |environmentoptions| to change the environmental features of the terrain.
 
 .. image:: control_images/environment_adjust.png
   :width: 400
   :alt: Alternative text
 
 
-可調整的環境選項:
-地貌顏色: 選擇自然地貌或黑白色的地形
+Adjustable environmental options:
+Terrain color: Choose between natural terrain or black-and-white terrain.
 
 .. image:: control_images/environment_adjust_color.png
   :width: 400
@@ -357,7 +357,7 @@ Click |cross_section| in the right toolbar to display the cross-section terrain.
 
 
 
-水平線: 調校海平面高度，最小值為-5，最大值為5，用作模擬大陸或離島的地勢，調整海及陸地面積，滑桿標越靠右海平面越高
+Horizon line: Adjust the sea level height, with a minimum value of -5 and a maximum value of 5. This is used to simulate the topography of continents or islands, adjusting the area of sea and land. The further the slider is to the right, the higher the sea level.
 
 .. image:: control_images/horizontal_line1.png
   :width: 400
@@ -368,7 +368,7 @@ Click |cross_section| in the right toolbar to display the cross-section terrain.
   :alt: Alternative text
 
 
-垂直間距: 調校垂直間距，最小值為10，最大值為80，滑桿標越靠右垂直間距越大
+Vertical spacing: Adjust the vertical spacing, with a minimum value of 10 and a maximum value of 80. The further the slider is to the right, the greater the vertical spacing.
 
 .. image:: control_images/Vertical_Interval1.png
   :width: 400
@@ -379,7 +379,7 @@ Click |cross_section| in the right toolbar to display the cross-section terrain.
   :alt: Alternative text
 
 
-地形質感: 選擇地理模式檢視方便理解課堂內容或以真實模式檢視地形以營造真實感
+Terrain texture: Choose the geographic mode for easier understanding of classroom content, or use the realistic mode to view the terrain for a more authentic experience.
 
 .. image:: control_images/texture1.png
   :width: 400
@@ -396,56 +396,57 @@ Click |cross_section| in the right toolbar to display the cross-section terrain.
 
 
 
-教學示範
+Teaching Demonstration
 -----------------------
-課題一: 高度與等高線 Height & Contour line
+Topic 1: Height & Contour Line
 
-以下示範為如何以ARGEO Portable教授高度與等高線單元
+The following demonstration shows how to teach the unit on height and contour lines using ARGEO Portable.
 
-a. 在「預設地形 (Preset Terrain) |presetterrain| 」中，選擇「高度與等高線」。
-b. 在「環境調整 (Environment Options) |environmentoptions| 」中調節「垂直間距（Vertical Interval）」至40。
+a. In the "Preset Terrain |presetterrain|" select "Height & Contour Line."
+b. In the "Environment Options |environmentoptions|" adjust the "Vertical Interval" to 40.
 
 .. image:: control_images/heightcontourline1.jpg
   :width: 400
   :alt: Alternative text
 
-c. 利用已預設的高程點及其他等高線指示，找出A點、B點和C點的高度。
+c. Using the preset elevation points and other contour line indicators, determine the heights of points A, B, and C.
 
 .. image:: control_images/heightcontourline2.jpg
   :width: 400
   :alt: Alternative text
 
-d. 老師可以再塑造更多地形教導學生。
+d. The teacher can create more terrain to instruct students.
 
 
-課題二: 地形 Relief
-以下示範如何以 ARGEO Portable 教導地形單元。
+Topic 2: Relief
+The following demonstrates how to teach the terrain unit by using ARGEO Portable.
+Select a 'Preset Terrain' and choose the terrain you wish to teach.
 
-a. 選擇一個「預設地形 (Preset Terrain) |presetterrain| 」，並選擇想教授的地形。
+a. Select a 'Preset Terrain |presetterrain| ' and choose the terrain you wish to teach.
 
 .. image:: control_images/relief1.png
   :width: 400
   :alt: Alternative text
 
-b. 使用「俯視角度 |topview|」功能觀察地形的等高線。
+b. Use the 'Top view |topview|' feature to observe the contour lines of the terrain.
 
 .. image:: control_images/relief2.jpg
   :width: 400
   :alt: Alternative text
 
-c. 選擇「觀察模式 |viewmode|」調校視角以觀察地形。
+c. Select 'View mode |viewmode|' to adjust the perspective for observing the terrain.
 
 .. image:: control_images/relief3.jpg
   :width: 400
   :alt: Alternative text
 
-d. 選擇「橫切面 |cross_section|」功能，並以滑標調校橫切面至合適的位置。
+d. Select the 'Cross Section |cross_section|' feature and adjust the cross section to the appropriate position using the slider.
 
 .. image:: control_images/relief4.jpg
   :width: 400
   :alt: Alternative text
 
-e. 可調校垂直誇大率觀察橫切面圖。
+e. Adjust the vertical exaggeration to observe the cross-sectional view.
 
 .. image:: control_images/relief5.jpg
   :width: 400
@@ -457,31 +458,31 @@ e. 可調校垂直誇大率觀察橫切面圖。
 遙距教學使用
 -----------------------
 Zoom
-- 開始分享畫面:
-1. 在下方(Android)或右上角(iOS)點選分享，選擇熒幕(Android)/螢幕(iOS) (注意: 用家需要是主持人或被主持人允許才可分享畫面)
+- Start sharing your screen:
+1. Click 'Share' at the bottom (Android) or in the upper right corner (iOS), then select 'Screen' (Android) / 'Screen' (iOS) (Note: Users must be the host or have permission from the host to share their screen).
 
 .. image:: control_images/zoom1.png
   :width: 400
   :alt: Alternative text
 
-2. 按立即開始(Android)或開始直播(iOS)確認分享
+2. Press 'Start Now' (Android) or 'Start Live' (iOS) to confirm sharing.
 
 .. image:: control_images/zoom2.png
   :width: 400
   :alt: Alternative text
 
-3. 成功分享用家裝置的畫面 (注意: 開始分享後所有參與者都能看見畫面的所有資訊，包括通知及其他程式的畫面 若有不希望公開的資訊請預先更改設定或避免在分享畫面期間打開檢視內容) (Android用家注意: 開始分享後會跳到裝置主畫面)
+3. Successfully shared the user's device screen (Note: Once sharing begins, all participants can see all information on the screen, including notifications and other app screens. If there is any information you do not wish to make public, please change your settings in advance or avoid opening content during the sharing period). (Android users note: After sharing begins, it will jump to the device's home screen).
 
 .. image:: control_images/zoom3.png
   :width: 400
   :alt: Alternative text
 
-4. 按主目錄鍵離開Zoom但不要關閉應用程式，開啟ARGEO Portable 的程式便可開始教學
+4. Press the home button to leave Zoom without closing the application, then open the ARGEO Portable app to begin teaching.
 
-- 停止分享畫面:
-  教學結束後退出ARGEO Portable
-  Android: 返回Zoom點選下方的停止直播/左下方的工具欄停止分享
-  iOS: 返回Zoom點選畫面中心的停止直播/在控制中心結束直播
+- To stop screen sharing:
+  After the lesson ends, exit ARGEO Portable.
+  For Android: Return to Zoom and click 'Stop Live' at the bottom / 'Stop Share' in the lower toolbar.
+  For iOS: Return to Zoom and click 'Stop Live' in the center of the screen / end the live broadcast in the control center.
 
 .. image:: control_images/zoom4.png
   :width: 400
@@ -489,31 +490,31 @@ Zoom
 
 
 Google Meet
-- 開始分享畫面:
-1. 按右上角選項，點選顯示畫面(Android)或分享螢幕畫面(iOS)
+- Start sharing your screen:
+1. Tap the options in the upper right corner, then select 'Display Screen' (Android) or 'Share Screen' (iOS).
 
 .. image:: control_images/googlemeet1.png
   :width: 400
   :alt: Alternative text
 
-2. 按開始顯示再按立即開始(Android)/開始直播(iOS)確認分享
+2. Press 'Start Display' and then tap 'Start Now' (Android) / 'Start Live' (iOS) to confirm sharing.
 
 .. image:: control_images/googlemeet2.png
   :width: 400
   :alt: Alternative text
 
-3. 成功分享用家裝置的畫面 (注意: 開始分享後所有參與者都能看見畫面的所有資訊，包括通知及其他程式的畫面 若有不希望公開的資訊請預先更改設定或避免在分享畫面期間打開檢視內容)
+3. Successfully shared the user's device screen (Note: Once sharing begins, all participants can see all information on the screen, including notifications and other app screens. If there is any information you do not wish to make public, please change your settings in advance or avoid opening content during the sharing period).
 
 .. image:: control_images/googlemeet3.png
   :width: 400
   :alt: Alternative text
 
-4. 按主目錄鍵離開Meet但不要關閉程式，開啟ARGEO Portable 的程式便可開始教學
+4. Press the home button to leave Meet without closing the application, then open the ARGEO Portable app to begin teaching.
 
-- 停止分享畫面:
-  教學結束後退出ARGEO Portable
-  Android: 返回Meet點選畫面中心的停止顯示
-  iOS: 返回Meet點選畫面中心的停止直播/在控制中心結束直播
+- To stop screen sharing:
+  After the lesson ends, exit ARGEO Portable.
+  For Android: Return to Meet and tap 'Stop Display' in the center of the screen.
+  For iOS: Return to Meet and tap 'Stop Live' in the center of the screen / end the live broadcast in the control center.
 
 .. image:: control_images/googlemeet4.png
   :width: 400
@@ -522,37 +523,37 @@ Google Meet
 
 Microsoft Teams
 
-- 開始分享畫面:
-1. 按下方的選項，點選分享
+- Start sharing your screen:
+1. Tap the option below and select 'Share'.
 
 .. image:: control_images/microsoftteams1.png
   :width: 400
   :alt: Alternative text
 
-2. 選擇分享螢幕畫面
+2. Select share screen.
 
 .. image:: control_images/microsoftteams2.png
   :width: 400
   :alt: Alternative text
 
-3. 按立即開始(Android)或開始直播(iOS)確認分享
+3. Press 'Start Now' (Android) or 'Start Live' (iOS) to confirm sharing.
 
 .. image:: control_images/microsoftteams3.png
   :width: 400
   :alt: Alternative text
 
-4. 成功分享用家裝置的畫面 (注意: 開始分享後所有參與者都能看見畫面的所有資訊，包括通知及其他程式的畫面 若有不希望公開的資訊請預先更改設定或避免在分享畫面期間打開檢視內容)
+4. Successfully shared the user's device screen (Note: Once sharing begins, all participants can see all information on the screen, including notifications and other app screens. If there is any information you do not wish to make public, please change your settings in advance or avoid opening content during the sharing period).
 
 .. image:: control_images/microsoftteams4.png
   :width: 400
   :alt: Alternative text
 
-5. 按主目錄鍵離開Teams但不要關閉程式，開啟ARGEO Portable 的程式便可開始教學
+5. Press the home button to leave Teams without closing the application, then open the ARGEO Portable app to begin teaching.
 
-- 停止分享畫面:
-  教學結束後退出ARGEO Portable
-  Android: 返回Teams點選下方的停止簡報
-  iOS: 返回Teams點選畫面中心的停止直播/在控制中心結束直播
+- To stop screen sharing:
+  After the lesson ends, exit ARGEO Portable.
+  For Android: Return to Teams and tap 'Stop Presentation' at the bottom.
+  For iOS: Return to Teams and tap 'Stop Live' in the center of the screen / end the live broadcast in the control center.
 
 .. image:: control_images/microsoftteams5.png
   :width: 400
