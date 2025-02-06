@@ -102,7 +102,7 @@ Features Overview
 Features
 -----------------------
 View Control
-    觀View Mode:
+    View Mode:
     Press |viewmode| on the left toolbar to activate the view mode, the lower tool console will be closed, users can adjust the viewing angle with one finger to move to the best viewing angle to observe the terrain from different angles.
 
 .. image:: control_images/view_control_mode.png
