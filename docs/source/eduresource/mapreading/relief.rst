@@ -25,28 +25,28 @@ a. Select a relief which you want to teach in “Preset Terrain |preset_terrain|
 
 .. image:: relief_images/relief1.png
   :width: 600
-  :alt: Login Screen
+  :alt: Alternative text
 
 
 b. Use“Top View |topview| ”function to observe the contour line of the relief.
 
 .. image:: relief_images/relief2.png
   :width: 600
-  :alt: Login Screen
+  :alt: Alternative text
 
 
 c. Use“View Mode |viewmode|”to adjust the camera to observe the relief. 
 
 .. image:: relief_images/relief3.png
   :width: 600
-  :alt: Login Screen
+  :alt: Alternative text
 
 
 d. Use “Cross-section |cross_section|”function and adjust the slider to the suitable position.
 
 .. image:: relief_images/relief4.png
   :width: 600
-  :alt: Login Screen
+  :alt: Alternative text
 
 
 
@@ -55,7 +55,7 @@ Adjuct the vertical exaggeration to observe the cross-section.
 
 .. image:: relief_images/relief5.png
   :width: 600
-  :alt: Login Screen 
+  :alt: Alternative text 
 
 
 

@@ -47,21 +47,21 @@ a. Select a“Preset Terrain |preset_terrain|”or use“Terrain Modifying |terr
 
 .. image:: area_images/area1.png
   :width: 600
-  :alt: Login Screen
+  :alt: Alternative text
 
 
 b. Apply “Map View |mapview|".
 
 .. image:: area_images/area2.png
   :width: 600
-  :alt: Login Screen
+  :alt: Alternative text
 
 
 c. Apply “Get Ruler |get_ruler|”.
 
 .. image:: area_images/area3.png
   :width: 600
-  :alt: Login Screen
+  :alt: Alternative text
 
 
 d. Place and adjust the ruler.
@@ -72,7 +72,7 @@ d. Place and adjust the ruler.
 
 .. image:: area_images/area4.png
   :width: 600
-  :alt: Login Screen
+  :alt: Alternative text
 
 
 e. Calculate the actual area.
@@ -85,14 +85,14 @@ a. Select a “Preset Terrain |preset_terrain|” or use “Terrain Modifying |t
 
 .. image:: area_images/area5.png
   :width: 600
-  :alt: Login Screen
+  :alt: Alternative text
 
 
 b. Apply “Map View |mapview|".
 
 .. image:: area_images/area6.png
   :width: 600
-  :alt: Login Screen
+  :alt: Alternative text
 
 
 c. elect “Drawing Tools |pen|” and sketch the outline of the area which needs to be measured. 
@@ -103,35 +103,35 @@ c. elect “Drawing Tools |pen|” and sketch the outline of the area which need
 
 .. image:: area_images/area7.png
   :width: 600
-  :alt: Login Screen
+  :alt: Alternative text
 
 
 d. Apply "View Mode |viewmode|".
 
 .. image:: area_images/area8.png
   :width: 600
-  :alt: Login Screen
+  :alt: Alternative text
 
 
 e. Apply “Environment Option |environment_options|” and select the terrain material in black and white (missing signal logo). 
 
 .. image:: area_images/area9.png
   :width: 600
-  :alt: Login Screen
+  :alt: Alternative text
 
 
 f. Apply “Map View |mapview|".
 
 .. image:: area_images/area10.png
   :width: 600
-  :alt: Login Screen
+  :alt: Alternative text
 
 
 g. Select “Call Ruler |get_ruler|”.
 
 .. image:: area_images/area11.png
   :width: 600
-  :alt: Login Screen
+  :alt: Alternative text
 
 
 h. Cover the grids on the object. 
@@ -140,7 +140,7 @@ h. Cover the grids on the object.
 
 .. image:: area_images/area12.png
   :width: 600
-  :alt: Login Screen
+  :alt: Alternative text
 
 
 i. Count the number of complete and incomplete squares. 
@@ -149,7 +149,7 @@ i. Count the number of complete and incomplete squares.
 
 .. image:: area_images/area13.png
   :width: 600
-  :alt: Login Screen
+  :alt: Alternative text
 
 
 j. Calculate the total number of squares.

@@ -24,35 +24,35 @@ a. Select a “Preset Terrain |preset_terrain|” or use “Terrain Modifying |t
 
 .. image:: straight_line_distance_images/straight_line_distance1.png
   :width: 600
-  :alt: Login Screen
+  :alt: Alternative text
 
 
 b. Apply “Labelling Tools |label|” to mark two points on the terrain.
 
 .. image:: straight_line_distance_images/straight_line_distance2.png
   :width: 600
-  :alt: Login Screen
+  :alt: Alternative text
 
 
 c. Apply “Map View |mapview|”. 
 
 .. image:: straight_line_distance_images/straight_line_distance3.png
   :width: 600
-  :alt: Login Screen
+  :alt: Alternative text
 
 
 d. Apply “Get Ruler” to show the ruler on the screen.
 
 .. image:: straight_line_distance_images/straight_line_distance4.png
   :width: 600
-  :alt: Login Screen
+  :alt: Alternative text
 
 
 e. Place and adjust the ruler on the two points. The following example is to measure the distance between toilet (106670) and spot height 165 (125669). 
 
 .. image:: straight_line_distance_images/straight_line_distance5.png
   :width: 600
-  :alt: Login Screen
+  :alt: Alternative text
 
 
 Calculate the straight-line distance.

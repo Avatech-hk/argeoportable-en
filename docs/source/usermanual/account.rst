@@ -8,7 +8,7 @@ Click on \[Register Account\
 
 .. image:: account_images/accountreg.jpg
   :width: 600
-  :alt: Login screen
+  :alt: Alternative text
 
 
 Register account: Enter username (can be changed in the future), email address, password and confirmation password. 

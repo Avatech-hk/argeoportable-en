@@ -29,56 +29,56 @@ a. Select a landform from “Preset Terrain |preset_terrain|” or use “Terrai
 
 .. image:: cross_section_images/cross_section1.png
   :width: 600
-  :alt: Login Screen
+  :alt: Alternative text
 
 
 b. Apply “Map View |mapview|”.
 
 .. image:: cross_section_images/cross_section2.png
   :width: 600
-  :alt: Login Screen
+  :alt: Alternative text
 
 
 c. Apply “Get Ruler |get_ruler|”.
 
 .. image:: cross_section_images/cross_section3.png
   :width: 600
-  :alt: Login Screen
+  :alt: Alternative text
 
 
 d. Place and adjust the ruler on Point A and B.
 
 .. image:: cross_section_images/cross_section4.png
   :width: 600
-  :alt: Login Screen
+  :alt: Alternative text
 
 
 e. Record the height of contour lines across the Point A and B on a piece of paper and ruler in real life.
 
 .. image:: cross_section_images/cross_section5.jpg
   :width: 600
-  :alt: Login Screen
+  :alt: Alternative text
 
 
 f. Draw the cross-section with the paper which records the height.
 
 .. image:: cross_section_images/cross_section6.jpg
   :width: 600
-  :alt: Login Screen
+  :alt: Alternative text
 
 
 g. Apply “View Mode |viewmode|”.
 
 .. image:: cross_section_images/cross_section7.png
   :width: 600
-  :alt: Login Screen
+  :alt: Alternative text
 
 
 h. Select “Cross-section |cross_section|” and use the slider to adjuct and position of cross-section and vertical exaggeration to check the cross-section.
 
 .. image:: cross_section_images/cross_section8.jpg
   :width: 600
-  :alt: Login Screen 
+  :alt: Alternative text 
 
 
 

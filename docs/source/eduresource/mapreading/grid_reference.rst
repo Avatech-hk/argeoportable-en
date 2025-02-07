@@ -26,7 +26,7 @@ b. Apply the “Map view |mapview|”. The grid lines are shown on the map.
 
 .. image:: grid_reference_images/grid_reference1.png
   :width: 600
-  :alt: Login Screen
+  :alt: Alternative text
 
 
 c. Press the grid line value. Set the starting point of northings is 10 and that of eastings is 65. (Teacher can  customise the grid line values.)  
@@ -44,7 +44,7 @@ e. Place the ruler on the grid square. Count the grids from left to right, then 
 
 .. image:: grid_reference_images/grid_reference2.png
   :width: 600
-  :alt: Login Screen
+  :alt: Alternative text
 
 
 Method 2 
@@ -53,7 +53,7 @@ f. Press the “Horizontal ruler |horizontal_ruler|” button. Place the ruler o
 
 .. image:: grid_reference_images/grid_reference3.png
   :width: 600
-  :alt: Login Screen
+  :alt: Alternative text
 
 
 g. Each grid equals to 0.5 cm. The first grid is 0 and the last grid is 9. Take the reading of easting.
@@ -63,14 +63,14 @@ h. Press the “Vertical ruler |vertical_ruler|” button. Place the ruler on th
 
 .. image:: grid_reference_images/grid_reference4.png
   :width: 600
-  :alt: Login Screen
+  :alt: Alternative text
 
 
 i. Each grid equals to 0.5 cm. The first grid is 0 and the last grid is 9. Take the reading of northing. 
 
 .. image:: grid_reference_images/grid reference4.png
   :width: 600
-  :alt: Login Screen
+  :alt: Alternative text
 
 
 j. Combine the easting and northing readings to form a six-figure grid reference

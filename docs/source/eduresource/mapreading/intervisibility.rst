@@ -18,21 +18,21 @@ a. Select a landform from “Preset Terrain”|preset_terrain| or use “Terrain
 
 .. image:: intervisibility_images/intervisibility1.png
   :width: 600
-  :alt: Login Screen
+  :alt: Alternative text
 
 
 b. Draw the cross-section between point E to F. (Refer to cross-section guideline)
 
 .. image:: intervisibility_images/intervisibility2.png
   :width: 600
-  :alt: Login Screen
+  :alt: Alternative text
 
 
 c. Determine the two points in the cross-section are visible or not.
 
 .. image:: intervisibility_images/intervisibility3.png
   :width: 600
-  :alt: Login Screen 
+  :alt: Alternative text 
 
 
 

@@ -21,14 +21,14 @@ b. Adjust the “Vertical Interval” to 40 on the “Environment Options |envir
 
 .. image:: height_contour_line_images/height_contour_line1.png
   :width: 600
-  :alt: Login Screen
+  :alt: Alternative text
 
 
 c. Refer to the information provided on the map. Find the height of point A, B and C.  
 
 .. image:: height_contour_line_images/height_contour_line2.png
   :width: 600
-  :alt: Login Screen
+  :alt: Alternative text
 
 
 d. Teachers can create more landforms for teaching. 

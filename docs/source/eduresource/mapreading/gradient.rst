@@ -26,14 +26,14 @@ a. Select a slope from “Preset Terrain |preset_terrain|” or use “Terrain M
 
 .. image:: gradient_images/gradient1.png
   :width: 600
-  :alt: Login Screen
+  :alt: Alternative text
 
 
 b. Apply“Labelling Tools |label|”to mark two points on the slope and state the correct height.
 
 .. image:: gradient_images/gradient2.png
   :width: 600
-  :alt: Login Screen
+  :alt: Alternative text
 
 
 
@@ -50,21 +50,21 @@ d. Apply “Map View |mapview|".
 
 .. image:: gradient_images/gradient3.png
   :width: 600
-  :alt: Login Screen 
+  :alt: Alternative text 
 
 
 e. Apply “Get Ruler |get_ruler|” to show the ruler on the screen.
 
 .. image:: gradient_images/gradient4.png
   :width: 600
-  :alt: Login Screen
+  :alt: Alternative text
 
 
 f. Place and adjust the ruler on the objects to measure the straight-line horizontal distance. 
  
 .. image:: gradient_images/gradient5.png
   :width: 600
-  :alt: Login Screen
+  :alt: Alternative text
 
 
 g. Calculate the gradient.
