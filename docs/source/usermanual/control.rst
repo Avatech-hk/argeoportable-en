@@ -307,30 +307,29 @@ Click |cross_section| in the right toolbar to display the cross-section terrain.
 
 
 
-橫切面介面:
+Cross-Section Interface:
 
-垂直誇大率(V.E.): 調整橫切面圖的垂直誇大率，滑桿標越上誇大率越大
+Vertical Exaggeration (V.E.): Adjusts the vertical exaggeration of the cross-section plot. The higher the slider, the greater the exaggeration.
 
 .. image:: control_images/cross_section_ve.png
   :width: 400
   :alt: Alternative text
 
 
-切割方向: 改變橫切面的切割方向，可選擇橫向或縱向
+Cutting Direction: Changes the cutting direction of the cross-section. You can choose between horizontal or longitudinal.
 
 .. image:: control_images/cross_section_direction.png
   :width: 400
   :alt: Alternative text
 
-
-觀察角度 |flip| : 改變觀察橫切面的視角，可選擇由正面或背面觀察
+Viewing Angle |flip|: Changes the viewing angle of the cross-section, allowing you to observe it from the front or back.
 
 .. image:: control_images/cross_section_view.png
   :width: 400
   :alt: Alternative text
 
 
-橫切面位置: 調整橫切面的切割位置
+Cross-Section Location: Adjusts the cutting location of the cross-section.
 
 .. image:: control_images/cross_section_position.png
   :width: 400
